@@ -42,9 +42,9 @@
      showgrid="false"
      inkscape:zoom="0.74337121"
      inkscape:cx="433.16178"
-     inkscape:cy="137.88535"
+     inkscape:cy="140.5758"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -729,7 +729,7 @@
        sodipodi:nodetypes="ccccc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#e3000b;stroke-width:2.01241;stroke-dasharray:none;stroke-opacity:1"
-       d="m 95.26425,679.11852 204.4182,74.00599 M 467.33543,499.42419"
+       d="m 95.26425,679.11852 208.56816,43.904"
        id="path20722"
        sodipodi:nodetypes="cc" />
     <path
@@ -737,5 +737,21 @@
        d="M 98.32555,646.8148 302.80049,614.87393"
        id="path20722-6"
        sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0.814536;stroke-width:0.834234"
+       id="rect425"
+       width="272.32883"
+       height="37.980217"
+       x="300.81104"
+       y="-771.30542"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0.814536;stroke-width:0.420237"
+       id="rect425-3"
+       width="89.163055"
+       height="29.435947"
+       x="309.35135"
+       y="-734.59424"
+       transform="scale(1,-1)" />
   </g>
 </svg>
